@@ -1,0 +1,29 @@
+li.eli5-item {
+    color: aqua;
+    list-style-type: disc;
+}
+
+.eli5-item-text {
+    color: black;
+}
+span.eli5-item-subtext {
+    color: gray;
+}
+a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    font-family: "Courier New", Courier, monospace;
+}
+
+.eli5-container {
+    border: 1px solid lightgray;
+    border-radius: 1px;
+    padding: 0.25rem;
+    margin: 0rem;
+}
+.eli5-second-container {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
